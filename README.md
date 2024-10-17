@@ -17,3 +17,4 @@ Comenzi basic in git:
 4. schimbarea branch - git checkout yourBranch
 5. schimbarea pe un branch care nu exista (crearea unui nou branch si checkout pe noul branch) - git checkout -b yourNewBranch
 6. clonare - git clone yourRepoURL
+7. update branch with other changes locally - git pull (inainte sa faci git pull, te duci pe branchul pe care doresti sa il updatezi (git checkout your_branch) )
