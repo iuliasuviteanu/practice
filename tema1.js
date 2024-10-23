@@ -46,5 +46,3 @@ if (number > secondNumber) {
 } else {
   console.log(`${secondNumber} is the greatest number`);
 }
-
-
