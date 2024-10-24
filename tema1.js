@@ -47,4 +47,14 @@ if (number > secondNumber) {
   console.log(`${secondNumber} is the greatest number`);
 }
 
+// Tema 1: Afișarea unui mesaj
+// * Descriere: Scrie un program care afișează un mesaj simplu, precum “test alert”, pe alert.
+// * Verifica in consola daca ce ai introdus in alert (textul din alert daca are length > 6 caractere, daca are length mai mare de 6 carctere, afiseaza in consola mesajul ‘Ce ma mai distrez’  * foloseste if
 
+let alertMessage = 'test alert';
+
+alert(alertMessage);
+
+if(alertMessage.length >6) {
+  console.log('Ce ma mai distrez');
+}
